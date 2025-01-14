@@ -52,7 +52,7 @@ nfpms:
       preremove: "packaging/scripts/preremove.sh"
 release:
   github:
-    owner: ncabatoff
+    owner: mateuszdrab
     name: process-exporter
   draft: false
   prerelease: true
